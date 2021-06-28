@@ -3,5 +3,6 @@ public class HelloTest {
 
         System.out.println("Hello test");
         System.out.println("Developing hello feature");
+        System.out.println("GitHub Repo is already published GitHub");
     }
 }
